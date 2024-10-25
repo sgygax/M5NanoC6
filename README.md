@@ -1,6 +1,6 @@
 M5NanoC6
 
-- U001-D
+- U001-D Umgebungs-Sensor (Temperatur, Feuchtigkeit, Luftdruck) mit SHT40 und BMP280 Chip
 - U005
 - U009
 - U010
