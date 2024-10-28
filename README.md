@@ -1,13 +1,13 @@
 <H1>M5NanoC6</H1>
 
 ## U001-D ##
-ENV IV is an environmental sensor that integrates the SHT40 and BMP280 sensors, designed for measuring temperature, humidity, and atmospheric pressure data.  
+An environmental (ENV) sensor that integrates the SHT40 and BMP280 sensors, designed for measuring temperature, humidity, and atmospheric pressure.  
 https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit
 ## U005 ##
-ANGLE is a rotary switch Unit which simply includes a 10K Ohm potentiometer inside.  
+A rotary potentiometer.  
 https://docs.m5stack.com/en/unit/angle
 ## U009 ##
-COLOR is color recognition unit integrated with TCS3472 chipset.  
+A color recognition using the TCS3472 chipset.  
 https://docs.m5stack.com/en/unit/COLOR  
 https://github.com/adafruit/Adafruit_TCS34725
 ## U010 ##
