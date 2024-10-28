@@ -38,10 +38,10 @@ https://docs.m5stack.com/en/unit/tvoc
 ## U095 (todo) ##
 A 6-axis attitude sensor system using the MPU6886 chipset with 3-axis gravity accelerometer and 3-axis gyroscope.  
 https://docs.m5stack.com/en/unit/imu
-## U119 (todo) ##
+## U119 ##
 A 1.3-inch OLED screen (128x64, B/W) using the SH1107 chipset.  
 https://docs.m5stack.com/en/unit/oled
-## U120 (todo) ##
+## U120 ##
 A 1.14 inch LCD screen (240x135, 262144 colors) using the ST7789V2 chipset.  
 https://docs.m5stack.com/en/unit/lcd
 ## U123 (todo) ##
