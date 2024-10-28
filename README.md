@@ -26,6 +26,9 @@ https://docs.m5stack.com/en/unit/button
 ## U029 (todo) ##
 Herzschlag-Sensor.  
 https://docs.m5stack.com/en/unit/heart
+## U031-B (todo) ##
+RFID-Reader/Writer (13.56MHz) mit WS1850S Chip.  
+https://docs.m5stack.com/en/unit/rfid2
 ## U057 ##
 Gabel-Lichtschranke 90°.  
 https://docs.m5stack.com/en/unit/OP.90
