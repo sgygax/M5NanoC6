@@ -45,6 +45,9 @@ https://docs.m5stack.com/en/unit/encoder
 Umgebungslicht-Sensor mit BH1750FVI Chip.  
 https://docs.m5stack.com/en/unit/DLight%20Unit  
 https://github.com/m5stack/M5-DLight/tree/master
+## U146 (todo) ##
+7-Segment-Anzeige (0.0.:0.0.) mit MCU.  
+https://docs.m5stack.com/en/unit/digi_clock
 ## U154 ##
 8 Dreh-Potentiometer, 1 Schiebeschalter und 9 Neopixel RGB-LED mit MCU.  
 https://docs.m5stack.com/en/unit/8Angle  
