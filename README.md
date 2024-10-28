@@ -23,6 +23,9 @@ https://docs.m5stack.com/en/unit/heart
 ## U057 ##
 Gabel-Lichtschranke 90°.  
 https://docs.m5stack.com/en/unit/OP.90
+## U123 (todo) ##
+Linar-Potentiometer und 14 Neopixel RGB-LED.   
+https://docs.m5stack.com/en/unit/fader
 ## U135 (todo) ##
 Dreh-Encoder mit Tastenfunktion und 2 Neopixel RGB-LED mit MCU.  
 https://docs.m5stack.com/en/unit/encoder
