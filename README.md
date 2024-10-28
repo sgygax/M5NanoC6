@@ -32,8 +32,11 @@ https://docs.m5stack.com/en/unit/rfid2
 ## U057 ##
 Infrared photoelectric switch sensor (90°) using the ITR9606 chipset.  
 https://docs.m5stack.com/en/unit/OP.90
+## U088 (todo) ##
+A digital multi-pixel gas sensor using the SGP30 chipset.  
+https://docs.m5stack.com/en/unit/tvoc
 ## U095 (todo) ##
-6-Axis IMU Unit is a 6-axis attitude sensor with 3-axis gravity accelerometer and 3-axis gyroscope, which can calculate tilt angle and acceleration in real time.  
+6-Axis IMU Unit is a 6-axis attitude sensor using the MPU6886 chipset with 3-axis gravity accelerometer and 3-axis gyroscope, which can calculate tilt angle and acceleration in real time.  
 https://docs.m5stack.com/en/unit/imu
 ## U119 (todo) ##
 A 1.3-inch OLED screen. It adopts SH1107 drive scheme, supports black/white display, and the resolution is 128x64.  
@@ -42,8 +45,11 @@ https://docs.m5stack.com/en/unit/oled
 A 1.14 inch color LCD screen. It adopts ST7789V2 drive scheme, the resolution is 240x135, and it supports 262144 colors.  
 https://docs.m5stack.com/en/unit/lcd
 ## U123 (todo) ##
-A slide potentiometer with color indicator, employ a 35mm slide potentiometer and 14 Neopixel RGB-LED.   
+A slide potentiometer with color indicator, employ a 35mm slide potentiometer and 14 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/fader
+## U127 (todo) ##
+A touchless gesture moving recognition sensor using the PAJ7620U2 chipset.  
+https://docs.m5stack.com/en/unit/Gesture
 ## U135 (todo) ##
 A rotary encoder knob with button function and 2 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/encoder
