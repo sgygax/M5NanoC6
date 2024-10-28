@@ -17,9 +17,15 @@ https://github.com/adafruit/Adafruit_VL53L0X
 ## U027 ##
 Taste.  
 https://docs.m5stack.com/en/unit/button
+## U029 (todo) ##
+Herzschlag-Sensor.  
+https://docs.m5stack.com/en/unit/heart
 ## U057 ##
 Gabel-Lichtschranke 90°.  
 https://docs.m5stack.com/en/unit/OP.90
+## U135 (todo) ##
+Dreh-Encoder mit Tastenfunktion und 2 Neopixel RGB-LED mit MCU.  
+https://docs.m5stack.com/en/unit/encoder
 ## U136 ##
 Umgebungslicht-Sensor mit BH1750FVI Chip.  
 https://docs.m5stack.com/en/unit/DLight%20Unit  
