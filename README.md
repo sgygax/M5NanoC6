@@ -1,4 +1,6 @@
-<H1>M5NanoC6</H1>
+# M5NanoC6 #
+A miniature, low-power IoT development board within the M5Stack development kit series. It is equipped with an ESP32-C6FH4 as the MCU.  
+https://docs.m5stack.com/en/core/M5NanoC6
 
 ## U001-D ##
 An environmental (ENV) sensor system that integrates the SHT40 and BMP280 sensors, designed for measuring temperature, humidity, and atmospheric pressure.  
