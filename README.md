@@ -25,7 +25,7 @@ Umgebungslicht-Sensor mit BH1750FVI Chip.
 https://docs.m5stack.com/en/unit/DLight%20Unit  
 https://github.com/m5stack/M5-DLight/tree/master
 ## U154 ##
-8 Dreh-Potentiometer, 1 Schiebeschalter und 9 Neopixel RGB-LED mit MCU.  
+8 x Dreh-Potentiometer, 1 Schiebeschalter und 9 Neopixel RGB-LED mit MCU.  
 https://docs.m5stack.com/en/unit/8Angle  
 https://github.com/RobTillaart/M5ANGLE8
 ## U172 ##
