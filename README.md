@@ -27,41 +27,41 @@ https://docs.m5stack.com/en/unit/button
 HEART is built using the MAX30100 chipset and is a complete pulse oximetry and heart-rate sensor system solution designed for the demanding requirements of wearable devices.  
 https://docs.m5stack.com/en/unit/heart
 ## U031-B (todo) ##
-RFID-Reader/Writer (13.56MHz) mit WS1850S Chip.  
+RFID2 is a radio frequency identification unit using the WS1850S chipset, working frequency is 13.56MHz.  
 https://docs.m5stack.com/en/unit/rfid2
 ## U057 ##
-Gabel-Lichtschranke 90°.  
+Infrared photoelectric switch sensor (90°) using the ITR9606 chipset.  
 https://docs.m5stack.com/en/unit/OP.90
 ## U095 (todo) ##
 6-Axis IMU Unit is a 6-axis attitude sensor with 3-axis gravity accelerometer and 3-axis gyroscope, which can calculate tilt angle and acceleration in real time.  
 https://docs.m5stack.com/en/unit/imu
 ## U119 (todo) ##
-1.3" OLED-Display (128x64, S/W) mit SH1107 Chip.  
+A 1.3-inch OLED screen. It adopts SH1107 drive scheme, supports black/white display, and the resolution is 128x64.  
 https://docs.m5stack.com/en/unit/oled
 ## U120 (todo) ##
-1.14" LCD-Display (240x135, RGB) mit ST7789V2 Chip.  
+A 1.14 inch color LCD screen. It adopts ST7789V2 drive scheme, the resolution is 240x135, and it supports 262144 colors.  
 https://docs.m5stack.com/en/unit/lcd
 ## U123 (todo) ##
-Linar-Potentiometer und 14 Neopixel RGB-LED.   
+A slide potentiometer with color indicator, employ a 35mm slide potentiometer and 14 Neopixel RGB-LED.   
 https://docs.m5stack.com/en/unit/fader
 ## U135 (todo) ##
-Dreh-Encoder mit Tastenfunktion und 2 Neopixel RGB-LED mit MCU.  
+A rotary encoder knob with button function and 2 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/encoder
 ## U136 ##
-Umgebungslicht-Sensor mit BH1750FVI Chip.  
+A digital ambient light sensor using the BH1750FVI chipset.  
 https://docs.m5stack.com/en/unit/DLight%20Unit  
 https://github.com/m5stack/M5-DLight/tree/master
 ## U146 (todo) ##
-7-Segment-Anzeige (0.0.:0.0.) mit MCU.  
+A 2.1 inch 4-digit 7-segment display module (0.0.:0.0.).  
 https://docs.m5stack.com/en/unit/digi_clock
 ## U154 ##
-8 Dreh-Potentiometer, 1 Schiebeschalter und 9 Neopixel RGB-LED mit MCU.  
+8 potentiometers, 1 toggle switch and 9 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/8Angle  
 https://github.com/RobTillaart/M5ANGLE8
 ## U171 (todo) ##
-IMU Pro Mini Unit is a versatile and integrated inertial motion unit.  
+IMU Pro Mini Unit is a versatile and integrated inertial motion unit. It incorporates advanced six-axis attitude sensors (BMI270), a three-axis geomagnetic sensor (BMM150), and an atmospheric pressure sensor (BMP280).  
 https://docs.m5stack.com/en/unit/IMU%20Pro%20Mini%20Unit
 ## U172 ##
-Distanz-Sensor (4..4000mm) mit VL53L1x Chip.  
+This unit integrated a distance measuring sensor VL53L1x (4..4000mm).  
 https://docs.m5stack.com/en/unit/Unit-ToF4M  
 https://github.com/m5stack/M5Unit-ToF4M
