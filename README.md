@@ -14,6 +14,9 @@ https://github.com/adafruit/Adafruit_TCS34725
 Distanz-Sensor (25..1000mm) mit VL53L0x Chip.  
 https://docs.m5stack.com/en/unit/TOF  
 https://github.com/adafruit/Adafruit_VL53L0X
+## U024-C (todo) ##
+Joystick (X/Y) mit Tastenfunktion (Z).  
+https://docs.m5stack.com/en/unit/joystick_1.1
 ## U025 (todo) ##
 2 Tasten.  
 https://docs.m5stack.com/en/unit/dual_button
