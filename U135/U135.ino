@@ -1,5 +1,5 @@
 // Dreh-Encoder mit Tastenfunktion.
-// https://docs.m5stack.com/en/unit/encoder
+// - https://docs.m5stack.com/en/unit/encoder
 
 //-------------------------------------------------------------------
 #include "Unit_Encoder.h"
