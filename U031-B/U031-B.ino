@@ -1,6 +1,6 @@
 // RFID Lese-/Schreibeinheit (13.56MHz).
-// https://docs.m5stack.com/en/unit/rfid2
-// https://github.com/OSSLibraries/Arduino_MFRC522v2/tree/master
+// - https://docs.m5stack.com/en/unit/rfid2
+// - https://github.com/OSSLibraries/Arduino_MFRC522v2/tree/master
 
 //-------------------------------------------------------------------
 #include <MFRC522v2.h>
