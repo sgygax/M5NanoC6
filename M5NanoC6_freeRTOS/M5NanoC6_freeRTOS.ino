@@ -96,6 +96,6 @@ void Task_3(void *pvParameters)
     // weiss 100%
     rgb.setPixelColor(0, rgb.Color(255, 255, 255));
     rgb.show();
-    delay(1000);
+    delay(500);
   }
 }
