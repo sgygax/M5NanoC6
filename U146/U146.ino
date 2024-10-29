@@ -1,5 +1,5 @@
 // 7-Segmentanzeige mit 4  Stellen und Punkten (0.0.:0.0.)
-// https://docs.m5stack.com/en/unit/digi_clock
+// - https://docs.m5stack.com/en/unit/digi_clock
 
 //-------------------------------------------------------------------
 #include <Wire.h>
