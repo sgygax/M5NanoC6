@@ -1,4 +1,4 @@
-// Die eingebaute Taste des M5NanoC6 verwenden.
+// The built-in button.
 // - https://docs.m5stack.com/en/core/M5NanoC6
 
 //-------------------------------------------------------------------
