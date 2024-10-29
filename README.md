@@ -19,7 +19,7 @@ https://github.com/adafruit/Adafruit_VL53L0X
 ## U024-C ##
 A joystick with three-axis control signal input (X/Y-axis offset analog input, Z-axis key digital input).  
 https://docs.m5stack.com/en/unit/joystick_1.1
-## U025 (todo) ##
+## U025 ##
 Two buttons.  
 https://docs.m5stack.com/en/unit/dual_button
 ## U027 ##
