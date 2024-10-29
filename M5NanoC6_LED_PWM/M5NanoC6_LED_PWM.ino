@@ -17,12 +17,12 @@ void loop()
   // blaue led einblenden (0..100%)
   for (int tg = 0; tg <= 255; tg++) {
     analogWrite(PIN_LED, tg);
-    delay(10);
+    delay(2);
   }
 
   // blaue led ausblenden (100..0%)
   for (int tg = 255; tg >= 0; tg--) {
     analogWrite(PIN_LED, tg);
-    delay(10);
+    delay(2);
   }
 }
