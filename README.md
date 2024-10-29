@@ -52,7 +52,7 @@ https://docs.m5stack.com/en/unit/fader
 ## U127 (todo) ##
 A touchless gesture moving recognition sensor using the PAJ7620U2 chipset.  
 https://docs.m5stack.com/en/unit/Gesture
-## U135 (todo) ##
+## U135 ##
 A rotary encoder knob with button function and 2 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/encoder
 ## U136 ##
