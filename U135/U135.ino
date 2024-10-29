@@ -1,4 +1,4 @@
-// Dreh-Encoder mit Buttonfunktion.
+// Dreh-Encoder mit Tastenfunktion.
 // https://docs.m5stack.com/en/unit/encoder
 
 //-------------------------------------------------------------------
