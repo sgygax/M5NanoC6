@@ -1,4 +1,4 @@
-// freeRTOS mit 3 Task auf dem M5NanoC6.
+// An example of how to use freeRTOS with 3 tasks.
 // - https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/system/freertos.html
 // - https://github.com/DiegoPaezA/ESP32-freeRTOS
 // - https://www.freertos.org/index.html
