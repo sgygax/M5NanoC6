@@ -1,5 +1,5 @@
 // 2 Tasten
-// https://docs.m5stack.com/en/unit/dual_button
+// - https://docs.m5stack.com/en/unit/dual_button
 
 //-------------------------------------------------------------------
 const int PIN_BUTTON_A = 1;
