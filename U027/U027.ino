@@ -1,5 +1,5 @@
 // Taste
-// https://docs.m5stack.com/en/unit/button
+// - https://docs.m5stack.com/en/unit/button
 
 //-------------------------------------------------------------------
 const int PIN_DIGITAL_SIGNAL = 1;
