@@ -1,5 +1,5 @@
 // Dreh-Potentiometer
-// https://docs.m5stack.com/en/unit/angle
+// - https://docs.m5stack.com/en/unit/angle
 
 //-------------------------------------------------------------------
 const int PIN_ANALOG_SIGNAL = 1;
