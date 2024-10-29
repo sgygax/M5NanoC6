@@ -1,5 +1,5 @@
-// https://docs.m5stack.com/en/arduino/m5gfx/m5gfx#m5unitoledh
-// 1.3" 128 x 64
+// OLED-Display (1.3", 128x64, S/W)
+// - https://docs.m5stack.com/en/arduino/m5gfx/m5gfx#m5unitoledh
 
 //-------------------------------------------------------------------
 #include <M5UnitOLED.h>
