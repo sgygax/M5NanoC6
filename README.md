@@ -2,6 +2,8 @@
 A miniature, low-power IoT development board within the M5Stack development kit series. It is equipped with an ESP32-C6FH4 as the MCU.  
 https://docs.m5stack.com/en/core/M5NanoC6
 
+## M5NanoC6 RGB ##
+Die eingebaute Neopixel RGB-LED.  
 ## U001-D ##
 An environmental (ENV) sensor system that integrates the SHT40 and BMP280 sensors, designed for measuring temperature, humidity, and atmospheric pressure.  
 https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit
