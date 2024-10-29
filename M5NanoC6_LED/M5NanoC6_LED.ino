@@ -1,4 +1,4 @@
-// Die eingebaute blaue LED des M5NanoC6.
+// The built-in blue LED.
 // - https://docs.m5stack.com/en/core/M5NanoC6
 
 //-------------------------------------------------------------------
