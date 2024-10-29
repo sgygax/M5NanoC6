@@ -2,7 +2,7 @@
 A miniature, low-power IoT development board within the M5Stack development kit series. It is equipped with an ESP32-C6FH4 as the MCU.  
 https://docs.m5stack.com/en/core/M5NanoC6
 ## M5NanoC6 Button ##
-Die eingebaute Taste. 
+The built-in button. 
 ## M5NanoC6 LED ##
 Die eingebaute blaue LED.  
 ## M5NanoC6 LED PWM ##
