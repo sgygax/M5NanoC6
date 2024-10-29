@@ -10,10 +10,10 @@ Die eingebaute blaue LED mit Pulsweiten-Modulation (PWM) ansteuern.
 ## M5NanoC6 RGB ##
 Die eingebaute Neopixel RGB-LED.  
 ## M5NanoC6 freeRTOS ##
-freeRTOS mit 3 Task.  
+An example of how to use freeRTOS with 3 tasks.  
 https://www.freertos.org/
 ## M5NanoC6 millis ##
-Einfaches kooperotives Multitasking mit 3 Task.  
+An example of simple cooperative multitasking with 3 tasks using the millis() function.  
 ## U001-D ##
 An environmental (ENV) sensor system that integrates the SHT40 and BMP280 sensors, designed for measuring temperature, humidity, and atmospheric pressure.  
 https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit
