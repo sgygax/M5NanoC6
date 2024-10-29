@@ -1,5 +1,5 @@
-// https://docs.m5stack.com/en/unit/lcd
-// 1.14" 240 x 135
+// LCD-Display (1.14", 240x135, RGB)
+// - https://docs.m5stack.com/en/unit/lcd
 
 //-------------------------------------------------------------------
 #include <M5UnitLCD.h>
