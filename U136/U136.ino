@@ -1,6 +1,6 @@
 // Umgebungslicht-Sensor mit BH1750FVI Chip
-// https://docs.m5stack.com/en/unit/DLight%20Unit
-// https://github.com/m5stack/M5-DLight/tree/master
+// - https://docs.m5stack.com/en/unit/DLight%20Unit
+// - https://github.com/m5stack/M5-DLight/tree/master
 
 //-------------------------------------------------------------------
 #include <M5_DLight.h>
