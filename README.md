@@ -8,7 +8,7 @@ The built-in blue LED.
 ## M5NanoC6 LED PWM ##
 The built-in blue LED and pulse-width modulation (PWM).  
 ## M5NanoC6 RGB ##
-Die eingebaute Neopixel RGB-LED.  
+The built-in Neopixel RGB-LED.  
 ## M5NanoC6 freeRTOS ##
 An example of how to use freeRTOS with 3 tasks.  
 https://www.freertos.org/
