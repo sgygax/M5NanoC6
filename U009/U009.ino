@@ -1,6 +1,6 @@
 // Farben-Sensor mit TCS34725 Chip
-// https://docs.m5stack.com/en/unit/COLOR
-// https://github.com/adafruit/Adafruit_TCS34725
+// - https://docs.m5stack.com/en/unit/COLOR
+// - https://github.com/adafruit/Adafruit_TCS34725
 
 //-------------------------------------------------------------------
 #include "Adafruit_TCS34725.h"
