@@ -1,4 +1,4 @@
-// Einfaches kooperotives Multitasking mit 3 Task auf dem M5NanoC6.
+// An example of simple cooperative multitasking with 3 tasks using the millis() function.
 
 //-------------------------------------------------------------------
 #include <Adafruit_NeoPixel.h>
