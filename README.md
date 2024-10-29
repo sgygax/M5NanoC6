@@ -46,7 +46,7 @@ https://docs.m5stack.com/en/unit/oled
 ## U120 ##
 A 1.14 inch LCD screen (240x135, 262144 colors) using the ST7789V2 chipset.  
 https://docs.m5stack.com/en/unit/lcd
-## U123 (todo) ##
+## U123 ##
 A slide potentiometer and 14 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/fader
 ## U127 (todo) ##
