@@ -1,5 +1,5 @@
 // Joystick mit Tastenfunktion
-// https://docs.m5stack.com/en/unit/joystick_1.1
+// - https://docs.m5stack.com/en/unit/joystick_1.1
 
 //-------------------------------------------------------------------
 #include <Wire.h>
