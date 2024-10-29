@@ -1,6 +1,6 @@
 // Distanz-Sensor (25..1000mm) mit VL53L0x Chip
-// https://docs.m5stack.com/en/unit/TOF
-// https://github.com/adafruit/Adafruit_VL53L0X
+// - https://docs.m5stack.com/en/unit/TOF
+// - https://github.com/adafruit/Adafruit_VL53L0X
 
 //-------------------------------------------------------------------
 #include <Adafruit_VL53L0X.h>
