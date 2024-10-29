@@ -1,4 +1,4 @@
-// Die eingebaute blaue LED des M5NanoC6 mit PWM ansteuern.
+// The built-in blue LED and pulse-width modulation (PWM).
 // - https://docs.m5stack.com/en/core/M5NanoC6
 
 //-------------------------------------------------------------------
