@@ -1,5 +1,5 @@
 // Die eingebaute Neopixel RGB-LED des M5NanoC6.
-// https://docs.m5stack.com/en/core/M5NanoC6
+// - https://docs.m5stack.com/en/core/M5NanoC6
 
 //-------------------------------------------------------------------
 #include <Adafruit_NeoPixel.h>
