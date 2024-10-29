@@ -59,7 +59,7 @@ https://docs.m5stack.com/en/unit/encoder
 A digital ambient light sensor using the BH1750FVI chipset.  
 https://docs.m5stack.com/en/unit/DLight%20Unit  
 https://github.com/m5stack/M5-DLight/tree/master
-## U146 (todo) ##
+## U146 ##
 A 2.1 inch 4-digit 7-segment display module (0.0.:0.0.).  
 https://docs.m5stack.com/en/unit/digi_clock
 ## U154 ##
