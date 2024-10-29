@@ -1,6 +1,6 @@
 // Distanz-Sensor (4..4000mm) mit VL53L1x Chip
-// https://docs.m5stack.com/en/unit/Unit-ToF4M
-// https://github.com/m5stack/M5Unit-ToF4M
+// - https://docs.m5stack.com/en/unit/Unit-ToF4M
+// - https://github.com/m5stack/M5Unit-ToF4M
 
 //-------------------------------------------------------------------
 #include <VL53L1X.h>
