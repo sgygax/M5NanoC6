@@ -1,5 +1,5 @@
 // Umgebungs-Sensor (Temperatur, Feuchtigkeit, Luftdruck) mit SHT40 und BMP280 Chip
-// https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit
+// - https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit
 
 //-------------------------------------------------------------------
 #include <M5UnitENV.h>
