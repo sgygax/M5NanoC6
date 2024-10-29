@@ -1,4 +1,4 @@
-// Joystick mit Buttonfunktion
+// Joystick mit Tastenfunktion
 // https://docs.m5stack.com/en/unit/joystick_1.1
 
 //-------------------------------------------------------------------
