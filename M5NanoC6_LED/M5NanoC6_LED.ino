@@ -1,5 +1,5 @@
 // Die eingebaute blaue LED des M5NanoC6.
-// https://docs.m5stack.com/en/core/M5NanoC6
+// - https://docs.m5stack.com/en/core/M5NanoC6
 
 //-------------------------------------------------------------------
 const int PIN_LED = 7;
