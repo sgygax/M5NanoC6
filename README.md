@@ -28,7 +28,7 @@ https://docs.m5stack.com/en/unit/button
 ## U029 (todo) ##
 A pulse oximetry and heart-rate sensor system using the MAX30100 chipset.  
 https://docs.m5stack.com/en/unit/heart
-## U031-B (todo) ##
+## U031-B ##
 A radio frequency identification (RFID) system using the WS1850S chipset, working frequency is 13.56MHz.  
 https://docs.m5stack.com/en/unit/rfid2
 ## U057 ##
