@@ -4,7 +4,7 @@ https://docs.m5stack.com/en/core/M5NanoC6
 ## M5NanoC6 Button ##
 The built-in button. 
 ## M5NanoC6 LED ##
-Die eingebaute blaue LED.  
+The built-in blue LED.  
 ## M5NanoC6 LED PWM ##
 Die eingebaute blaue LED mit Pulsweiten-Modulation (PWM) ansteuern.  
 ## M5NanoC6 RGB ##
