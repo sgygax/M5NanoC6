@@ -1,5 +1,5 @@
 // Schiebe-Potentiometer mit 14 Neopixel-RGB-LED.
-// https://docs.m5stack.com/en/unit/fader
+// - https://docs.m5stack.com/en/unit/fader
 
 //-------------------------------------------------------------------
 #include <Adafruit_NeoPixel.h>
