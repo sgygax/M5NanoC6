@@ -1,4 +1,4 @@
-// Die eingebaute Neopixel RGB-LED des M5NanoC6.
+// The built-in Neopixel RGB-LED.
 // - https://docs.m5stack.com/en/core/M5NanoC6
 
 //-------------------------------------------------------------------
