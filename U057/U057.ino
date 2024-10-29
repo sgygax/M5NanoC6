@@ -1,5 +1,5 @@
 // Gabel-Lichtschranke 90°
-// https://docs.m5stack.com/en/unit/OP.90
+// - https://docs.m5stack.com/en/unit/OP.90
 
 //-------------------------------------------------------------------
 const int PIN_DIGITAL_SIGNAL = 1;
