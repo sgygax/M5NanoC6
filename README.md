@@ -3,6 +3,8 @@ A miniature, low-power IoT development board within the M5Stack development kit 
 https://docs.m5stack.com/en/core/M5NanoC6
 ## M5NanoC6 Button ##
 The built-in button.  
+## M5NanoC6 IR ##
+The built-in infrared (IR) LED.  
 ## M5NanoC6 LED ##
 The built-in blue LED.  
 ## M5NanoC6 LED PWM ##
