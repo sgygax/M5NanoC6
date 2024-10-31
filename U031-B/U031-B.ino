@@ -8,20 +8,13 @@
 #include <MFRC522Debug.h>
 
 //-------------------------------------------------------------------
-const int ADR_I2C_RFID2 = 0x28;
-
-const int PIN_I2C_SDA = 2;
-const int PIN_I2C_SCL = 1;
-
-MFRC522DriverI2C driver{ADR_I2C_RFID2, Wire};
+MFRC522DriverI2C driver;
 MFRC522 mfrc522(driver);
 
 //-------------------------------------------------------------------
 void setup()
 {
   Serial.begin(115200);
-
-  Wire.begin(PIN_I2C_SDA, PIN_I2C_SCL, 100000);
 
   mfrc522.PCD_Init();
 }
