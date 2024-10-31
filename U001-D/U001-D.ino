@@ -13,7 +13,7 @@ void setup(void)
 {
   Serial.begin(115200);
 
-  if (sht40.begin(&Wire, SHT40_I2C_ADDR_44, 2, 1) == false) {
+  if (sht40.begin(&Wire, SHT40_I2C_ADDR_44, SDA, SCL) == false) {
     while (1) {
       Serial.println("Couldn't find SHT40...");
     }
@@ -23,7 +23,7 @@ void setup(void)
   sht40.setPrecision(SHT4X_HIGH_PRECISION);
   sht40.setHeater(SHT4X_NO_HEATER);
 
-  if (bmp280.begin(&Wire, BMP280_I2C_ADDR, 2, 1) == false) {
+  if (bmp280.begin(&Wire, BMP280_I2C_ADDR, SDA, SCL) == false) {
     while (1) {
       Serial.println("Couldn't find BMP280...");
     }
