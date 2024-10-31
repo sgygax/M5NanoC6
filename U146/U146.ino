@@ -8,9 +8,6 @@
 //-------------------------------------------------------------------
 const int ADR_I2C_DIGICLOCK = 0x30;
 
-const int PIN_I2C_SDA = 2;
-const int PIN_I2C_SCL = 1;
-
 M5UNIT_DIGI_CLOCK Digiclock;
 
 //-------------------------------------------------------------------
@@ -18,9 +15,7 @@ void setup()
 {
   Serial.begin(115200);
 
-  Wire.begin(PIN_I2C_SDA, PIN_I2C_SCL);
-
-  if (Digiclock.begin(&Wire, PIN_I2C_SDA, PIN_I2C_SCL, ADR_I2C_DIGICLOCK)) {
+  if (Digiclock.begin(&Wire, SDA, SCL, ADR_I2C_DIGICLOCK)) {
     Serial.println("Digital clock init successful");
   }
   else {
