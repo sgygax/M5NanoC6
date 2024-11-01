@@ -40,13 +40,15 @@ void setup(void)
 //-------------------------------------------------------------------
 void loop(void)
 {
-  Serial.print( sensor.read() );
-
-  if (sensor.timeoutOccurred()) {
-    Serial.print(" TIMEOUT");
+  if (sensor.dataReady()) {
+    Serial.print("Distanz: ");
+    Serial.print( sensor.read() );
+    Serial.println(" mm");
   }
 
-  Serial.println();
+  if (sensor.timeoutOccurred()) {
+    Serial.println(" TIMEOUT");
+  }
 
   //delay(100);
 }
