@@ -19,8 +19,9 @@ void setup()
     Serial.println("Digital clock init successful");
   }
   else {
-    Serial.println("Digital clock init error");
-    while (1);
+    while (true) {
+      Serial.println("Digital clock init error");
+    }
   }
 
   // anzeige löschen
