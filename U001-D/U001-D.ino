@@ -14,7 +14,7 @@ void setup(void)
   Serial.begin(115200);
 
   if (sht40.begin(&Wire, SHT40_I2C_ADDR_44, SDA, SCL) == false) {
-    while (1) {
+    while (true) {
       Serial.println("Couldn't find SHT40...");
     }
   }
@@ -24,7 +24,7 @@ void setup(void)
   sht40.setHeater(SHT4X_NO_HEATER);
 
   if (bmp280.begin(&Wire, BMP280_I2C_ADDR, SDA, SCL) == false) {
-    while (1) {
+    while (true) {
       Serial.println("Couldn't find BMP280...");
     }
   }
