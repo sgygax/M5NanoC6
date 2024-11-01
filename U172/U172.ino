@@ -18,7 +18,7 @@ void setup(void)
   sensor.setBus(&Wire);
   sensor.setTimeout(500);
   if (sensor.init() == false) {
-    while (1) {
+    while (true) {
       Serial.println("Failed to detect and initialize sensor!");
     }
   }
