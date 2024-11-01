@@ -6,28 +6,28 @@
 #include <Adafruit_VL53L0X.h>
 
 //-------------------------------------------------------------------
-Adafruit_VL53L0X lox = Adafruit_VL53L0X();
+Adafruit_VL53L0X sensor;
 
 //-------------------------------------------------------------------
 void setup(void)
 {
   Serial.begin(115200);
 
-  if (lox.begin() == false) {
-    while (1) {
+  if (sensor.begin() == false) {
+    while (true) {
       Serial.println("Kein Distanz-Sensor gefunden...");
     }
   }
 
-  lox.startRangeContinuous();
+  sensor.startRangeContinuous();
 }
 
 //-------------------------------------------------------------------
 void loop(void)
 {
-  if (lox.isRangeComplete()) {
+  if (sensor.isRangeComplete()) {
     Serial.print("Distanz: ");
-    Serial.print( lox.readRange() );
+    Serial.print( sensor.readRange() );
     Serial.println(" mm");
   }
 
