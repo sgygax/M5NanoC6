@@ -2,7 +2,7 @@
 // - https://docs.m5stack.com/en/unit/encoder
 
 //-------------------------------------------------------------------
-#include "Unit_Encoder.h"
+#include <Unit_Encoder.h>
 
 //-------------------------------------------------------------------
 Unit_Encoder sensor;
