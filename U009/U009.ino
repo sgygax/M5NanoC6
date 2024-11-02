@@ -3,7 +3,7 @@
 // - https://github.com/adafruit/Adafruit_TCS34725
 
 //-------------------------------------------------------------------
-#include "Adafruit_TCS34725.h"
+#include <Adafruit_TCS34725.h>
 
 //-------------------------------------------------------------------
 /* Initialise with default values (int time = 2.4ms, gain = 1x) */
