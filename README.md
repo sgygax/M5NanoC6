@@ -26,7 +26,7 @@ An example of simple cooperative multitasking with 3 tasks using the millis() fu
 An environmental (ENV) sensor system that integrates the SHT40 and BMP280 sensors, designed for measuring temperature, humidity, and atmospheric pressure.  
 https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit
 ## U002 - IR REMOTE (todo) ##
-Contains 1x infrared emitter and 1x infrared receiver.  
+1 infrared emitter and 1 infrared receiver.  
 https://docs.m5stack.com/en/unit/ir
 ## U005 - ANGLE ##
 A rotary potentiometer.  
