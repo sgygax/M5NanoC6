@@ -1,4 +1,7 @@
-// WebServer
+// WebServer:
+// The ESP32 operates in station mode,  
+// connects to the local WiFi network (SSID: m126, KEY: M126M126), 
+// and then starts a web server with an HTML page.
 
 //-------------------------------------------------------------------
 #include <WiFi.h>
