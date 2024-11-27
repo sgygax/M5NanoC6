@@ -10,7 +10,7 @@
 //-------------------------------------------------------------------
 // WiFi:
 const char WIFI_SSID[] = "m126";
-const char WIFI_PASSWORD[] = "M126M126";
+const char WIFI_KEY[] = "M126M126";
 
 // Webserver Objekt (Port 80)
 WebServer webserver(80);
@@ -24,7 +24,7 @@ void setup(void)
 
   //---
   // WiFi verbinden
-  WiFi.begin(WIFI_SSID, WIFI_PASSWORD);
+  WiFi.begin(WIFI_SSID, WIFI_KEY);
   Serial.print("Verbinde mit ");
   Serial.print(WIFI_SSID);
 
