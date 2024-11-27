@@ -10,7 +10,7 @@
 //-------------------------------------------------------------------
 // WiFi:
 const char WIFI_AP_SSID[] = "ESP32-NETWORK";
-const char WIFI_AP_KEY[] = "";
+const char WIFI_AP_KEY[] = "12345678";
 
 // Webserver Objekt (Port 80)
 WebServer webserver(80);
