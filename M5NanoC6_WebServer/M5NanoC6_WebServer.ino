@@ -70,7 +70,7 @@ void handle_page_index() {
       <body>
         <h1>ESP32 Webserver</h1>
         <div>
-          <h2>Random 0..1000</h2>
+          <h2>Random Generator</h2>
           <p>Value: *RANDOM_VALUE_TEXT*</p>
           <hr>
           <a href="/">[Reload]</a>
