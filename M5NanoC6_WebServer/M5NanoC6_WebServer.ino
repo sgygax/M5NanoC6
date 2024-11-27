@@ -6,8 +6,8 @@
 
 //-------------------------------------------------------------------
 // WiFi:
-const char WIFI_SSID[] = "GEEAP_GAST"; // m126 GEEAP_GAST
-const char WIFI_PASSWORD[] = "g3yz-yrqz"; // M126M126 g3yz-yrqz
+const char WIFI_SSID[] = "m126";
+const char WIFI_PASSWORD[] = "M126M126";
 
 // Webserver Objekt (Port 80)
 WebServer webserver(80);
