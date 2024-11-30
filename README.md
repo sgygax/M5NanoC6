@@ -95,7 +95,7 @@ https://docs.m5stack.com/en/unit/8Encoder
 ## U154 - 8ANGLE ##
 8 potentiometers, 1 toggle switch and 9 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/8Angle  
-## U166 - MiniOLED (todo) ##
+## U166 - MiniOLED ##
 A 0.43-inch mini OLED screen (72x40, B/W) using the SSD1315 chipset.  
 https://docs.m5stack.com/en/unit/MiniOLED%20Unit  
 ## U171 - IMU PRO (todo) ##
