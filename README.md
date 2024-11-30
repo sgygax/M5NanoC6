@@ -97,7 +97,7 @@ https://docs.m5stack.com/en/unit/8Encoder
 https://docs.m5stack.com/en/unit/8Angle  
 ## U166 - MiniOLED (todo) ##
 A 0.43-inch mini OLED screen (72x40, B/W) using the SSD1315 chipset.  
-https://docs.m5stack.com/en/unit/oled  
+https://docs.m5stack.com/en/unit/MiniOLED%20Unit  
 ## U171 - IMU PRO (todo) ##
 A inertial motion unit. It incorporates advanced six-axis attitude sensors (BMI270), a three-axis geomagnetic sensor (BMM150), and an atmospheric pressure sensor (BMP280).  
 https://docs.m5stack.com/en/unit/IMU%20Pro%20Mini%20Unit  
