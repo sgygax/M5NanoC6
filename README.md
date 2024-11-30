@@ -89,7 +89,7 @@ https://docs.m5stack.com/en/unit/DLight%20Unit
 ## U146 - DIGI-CLOCK ##
 A 2.1 inch 4-digit 7-segment display module (0.0.:0.0.).  
 https://docs.m5stack.com/en/unit/digi_clock  
-## U153 - 8ENCODER (todo) ##
+## U153 - 8ENCODER ##
 8 rotary encoder knobs with button function, 1 toggle switch and 9 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/8Encoder  
 ## U154 - 8ANGLE ##
