@@ -49,10 +49,6 @@ void loop(void)
     display.sendBuffer();
   }
   delay(1000);
-  
-  display.clearBuffer();
-  display.sendBuffer();
-  delay(1000);
 
   // drawLine
   display.clearBuffer();
