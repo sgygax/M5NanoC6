@@ -6,8 +6,8 @@
 #include "TinyGPSPlus.h"
 
 //-------------------------------------------------------------------
-const int PIN_UART_RX = 1;
-const int PIN_UART_TX = 2;
+const int PIN_UART1_RX = 1;
+const int PIN_UART1_TX = 2;
 
 TinyGPSPlus gps;
 
@@ -18,7 +18,7 @@ void setup(void)
 {
   Serial.begin(115200);
 
-  Serial1.begin(9600, SERIAL_8N1, PIN_UART_RX, PIN_UART_TX);
+  Serial1.begin(9600, SERIAL_8N1, PIN_UART1_RX, PIN_UART1_TX);
 }
 
 //-------------------------------------------------------------------
