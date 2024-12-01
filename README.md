@@ -50,7 +50,7 @@ https://docs.m5stack.com/en/unit/dual_button
 ## U027 - BUTTON ##
 A single button.  
 https://docs.m5stack.com/en/unit/button  
-## U028 - NCIR (todo) ##
+## U028 - NCIR ##
 A  infrared surface temperature measuring system using the MLX90614 chipset.  
 https://docs.m5stack.com/en/unit/ncir  
 ## U029 - HEART (todo) ##
