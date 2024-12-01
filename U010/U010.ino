@@ -13,10 +13,9 @@ void setup(void)
 {
   Serial.begin(115200);
 
-  if (sensor.begin() == false) {
-    while (true) {
-      Serial.println("Kein Distanz-Sensor gefunden...");
-    }
+  while (sensor.begin() == false) {
+    Serial.print(".");
+    delay(1000);
   }
 
   sensor.startRangeContinuous();
