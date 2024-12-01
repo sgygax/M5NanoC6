@@ -32,6 +32,9 @@ https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit
 ## U002 - IR REMOTE (todo) ##
 1 infrared emitter and 1 infrared receiver.  
 https://docs.m5stack.com/en/unit/ir  
+## U004 - PIR (todo) ##
+An infrared radiation detecting system.  
+https://docs.m5stack.com/en/unit/PIR  
 ## U005 - ANGLE ##
 A rotary potentiometer.  
 https://docs.m5stack.com/en/unit/angle  
