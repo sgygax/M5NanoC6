@@ -15,13 +15,9 @@ void setup()
 {
   Serial.begin(115200);
 
-  if (Digiclock.begin(&Wire, SDA, SCL, ADR_I2C_DIGICLOCK)) {
-    Serial.println("Digital clock init successful");
-  }
-  else {
-    while (true) {
-      Serial.println("Digital clock init error");
-    }
+  while (Digiclock.begin(&Wire, SDA, SCL, ADR_I2C_DIGICLOCK) == false) {
+    Serial.print(".");
+    delay(1000);
   }
 
   // anzeige löschen
