@@ -17,10 +17,9 @@ void setup(void)
 {
   Serial.begin(115200);
 
-  if (tcs.begin() == false) {
-    while (true) {
-      Serial.println("Kein Farben-Sensor gefunden...");
-    }
+  while (tcs.begin() == false) {
+    Serial.print(".");
+    delay(1000);
   }
 }
 
