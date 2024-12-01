@@ -7,8 +7,8 @@
 #include "M5UnitSynth.h"
 
 //-------------------------------------------------------------------
-const int PIN_UART_RX = 1;
-const int PIN_UART_TX = 2;
+const int PIN_UART1_RX = 1;
+const int PIN_UART1_TX = 2;
 
 M5UnitSynth synth;
 
@@ -17,7 +17,7 @@ void setup(void)
 {
   Serial.begin(115200);
 
-  synth.begin(&Serial1, UNIT_SYNTH_BAUD, PIN_UART_RX, PIN_UART_TX);
+  synth.begin(&Serial1, UNIT_SYNTH_BAUD, PIN_UART1_RX, PIN_UART1_TX);
 }
 
 //-------------------------------------------------------------------
