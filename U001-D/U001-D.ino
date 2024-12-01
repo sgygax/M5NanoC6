@@ -13,20 +13,18 @@ void setup(void)
 {
   Serial.begin(115200);
 
-  if (sht40.begin(&Wire, SHT40_I2C_ADDR_44, SDA, SCL) == false) {
-    while (true) {
-      Serial.println("Couldn't find SHT40...");
-    }
+  while (sht40.begin(&Wire, SHT40_I2C_ADDR_44, SDA, SCL) == false) {
+    Serial.print(".");
+    delay(1000);
   }
 
   // You can have 3 different precisions, higher precision takes longer
   sht40.setPrecision(SHT4X_HIGH_PRECISION);
   sht40.setHeater(SHT4X_NO_HEATER);
 
-  if (bmp280.begin(&Wire, BMP280_I2C_ADDR, SDA, SCL) == false) {
-    while (true) {
-      Serial.println("Couldn't find BMP280...");
-    }
+  while (bmp280.begin(&Wire, BMP280_I2C_ADDR, SDA, SCL) == false) {
+    Serial.print(":");
+    delay(1000);
   }
 
   // Default settings from datasheet
