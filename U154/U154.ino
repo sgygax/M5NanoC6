@@ -14,7 +14,11 @@ void setup(void)
   Serial.begin(115200);
 
   Wire.begin();
-  angle8.begin();
+
+  while (angle8.begin() == false) {
+    Serial.print(".");
+    delay(1000);
+  }
 
   angle8.setReverse(false);
 
