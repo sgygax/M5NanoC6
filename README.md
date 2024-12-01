@@ -62,7 +62,7 @@ https://docs.m5stack.com/en/unit/heart
 ## U031-B - RFID2 ##
 A radio frequency identification (RFID) system using the WS1850S chipset, working frequency is 13.56MHz.  
 https://docs.m5stack.com/en/unit/rfid2  
-## U032 - GPS (todo) ##
+## U032 - GPS ##
 A GPS unit that integrates a AT6558 navigation chip and a MAX2659 amplification chip.  
 https://docs.m5stack.com/en/unit/gps  
 ## U057 - OP 90° ##
