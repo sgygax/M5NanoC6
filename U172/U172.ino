@@ -17,10 +17,10 @@ void setup(void)
 
   sensor.setBus(&Wire);
   sensor.setTimeout(500);
-  if (sensor.init() == false) {
-    while (true) {
-      Serial.println("Failed to detect and initialize sensor!");
-    }
+
+  while (sensor.init() == false) {
+    Serial.print(".");
+    delay(1000);
   }
 
   // Use long distance mode and allow up to 50000 us (50 ms) for a
