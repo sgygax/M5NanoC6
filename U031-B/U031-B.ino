@@ -16,7 +16,10 @@ void setup()
 {
   Serial.begin(115200);
 
-  mfrc522.PCD_Init();
+  while (mfrc522.PCD_Init() == false) {
+    Serial.print(".");
+    delay(1000);
+  }
 }
 
 //-------------------------------------------------------------------
