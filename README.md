@@ -108,5 +108,5 @@ https://docs.m5stack.com/en/unit/Unit-ToF4M
 An integrated one-dimensional/two-dimensional code scanning unit.  
 https://docs.m5stack.com/en/unit/Unit-QRCode  
 ## U177 - MINI SCALES 5KG (todo) ##
-An mini weighing system with a 5kg weighing sensor.  
+An mini weighing system with a 5kg weighing sensor and 1 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/Unit-Mini%20Scales  
