@@ -116,7 +116,7 @@ https://docs.m5stack.com/en/unit/Unit-QRCode
 ## U177 - MINI SCALES 5KG ##
 An mini weighing system with a 5kg weighing sensor, 1 button and 1 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/Unit-Mini%20Scales  
-## U178 - SYNTH (todo) ##
+## U178 - SYNTH ##
 An audio module designed specifically for MIDI sound systems using the SAM2695 audio synthesizer.  
 https://docs.m5stack.com/en/unit/Unit-Synth  
 ## U185 - TMOS PIR ##
