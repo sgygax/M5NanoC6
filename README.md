@@ -116,6 +116,6 @@ https://docs.m5stack.com/en/unit/Unit-QRCode
 ## U177 - MINI SCALES 5KG ##
 An mini weighing system with a 5kg weighing sensor, 1 button and 1 Neopixel RGB-LED.  
 https://docs.m5stack.com/en/unit/Unit-Mini%20Scales  
-## U185 - TMOS PIR (todo) ##
+## U185 - TMOS PIR ##
 A high-sensitivity infrared sensor system for presence and motion detection using the STHS34PF80 chipset.  
 https://docs.m5stack.com/en/unit/UNIT-TMOS%20PIR  
