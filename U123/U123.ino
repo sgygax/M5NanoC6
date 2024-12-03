@@ -1,6 +1,12 @@
 // Schiebe-Potentiometer mit 14 Neopixel-RGB-LED.
 // - https://docs.m5stack.com/en/unit/fader
 
+// GROVE PORT (UNIVERSAL):
+// 1 GPIO1, TWI(SCL), UART(RX)
+// 2 GPIO2, TWI(SDA), UART(TX)
+// 3 +5V
+// 4 GND
+
 //-------------------------------------------------------------------
 #include <Adafruit_NeoPixel.h>
 
