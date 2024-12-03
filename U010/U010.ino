@@ -2,6 +2,12 @@
 // - https://docs.m5stack.com/en/unit/TOF
 // - https://github.com/adafruit/Adafruit_VL53L0X
 
+// GROVE PORT (UNIVERSAL):
+// 1 GPIO1, TWI(SCL), UART(RX)
+// 2 GPIO2, TWI(SDA), UART(TX)
+// 3 +5V
+// 4 GND
+
 //-------------------------------------------------------------------
 #include <Adafruit_VL53L0X.h>
 
