@@ -3,6 +3,12 @@
 // - https://github.com/m5stack/M5Unit-Synth
 // - https://m5stack.oss-cn-shenzhen.aliyuncs.com/resource/docs/products/unit/Unit-Synth/SAM2695.pdf
 
+// GROVE PORT (UNIVERSAL):
+// 1 GPIO1, TWI(SCL), UART(RX)
+// 2 GPIO2, TWI(SDA), UART(TX)
+// 3 +5V
+// 4 GND
+
 //-------------------------------------------------------------------
 #include "M5UnitSynth.h"
 
