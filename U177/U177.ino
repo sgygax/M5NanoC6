@@ -2,6 +2,12 @@
 // - https://docs.m5stack.com/en/unit/Unit-Mini%20Scales
 // - https://github.com/m5stack/M5Unit-Miniscale (--> Download as ZIP file and install it manually)
 
+// GROVE PORT (UNIVERSAL):
+// 1 GPIO1, TWI(SCL), UART(RX)
+// 2 GPIO2, TWI(SDA), UART(TX)
+// 3 +5V
+// 4 GND
+
 //-------------------------------------------------------------------
 #include "UNIT_SCALES.h"
 
