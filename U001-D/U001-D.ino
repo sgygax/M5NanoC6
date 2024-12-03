@@ -1,6 +1,12 @@
 // Umgebungs-Sensor (Temperatur, Feuchtigkeit, Luftdruck) mit SHT40 und BMP280 Chip
 // - https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit
 
+// GROVE PORT (UNIVERSAL):
+// 1 GPIO1, TWI(SCL), UART(RX)
+// 2 GPIO2, TWI(SDA), UART(TX)
+// 3 +5V
+// 4 GND
+
 //-------------------------------------------------------------------
 #include <M5UnitENV.h>
 
