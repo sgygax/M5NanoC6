@@ -1,6 +1,12 @@
 // LCD-Display (1.14", 240x135, RGB)
 // - https://docs.m5stack.com/en/unit/lcd
 
+// GROVE PORT (UNIVERSAL):
+// 1 GPIO1, TWI(SCL), UART(RX)
+// 2 GPIO2, TWI(SDA), UART(TX)
+// 3 +5V
+// 4 GND
+
 //-------------------------------------------------------------------
 #include <M5UnitLCD.h>
 
