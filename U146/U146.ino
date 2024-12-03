@@ -1,6 +1,12 @@
 // 7-Segmentanzeige mit 4  Stellen und Punkten (0.0.:0.0.)
 // - https://docs.m5stack.com/en/unit/digi_clock
 
+// GROVE PORT (UNIVERSAL):
+// 1 GPIO1, TWI(SCL), UART(RX)
+// 2 GPIO2, TWI(SDA), UART(TX)
+// 3 +5V
+// 4 GND
+
 //-------------------------------------------------------------------
 #include <Wire.h>
 #include <M5UNIT_DIGI_CLOCK.h>
