@@ -1,6 +1,12 @@
 // Animal 134.2kHz RFID reader WL-134.
 // - https://de.aliexpress.com/item/4000601988338.html
 
+// GROVE PORT (UNIVERSAL):
+// 1 GPIO1, TWI(SCL), UART(RX)
+// 2 GPIO2, TWI(SDA), UART(TX)
+// 3 +5V
+// 4 GND
+
 //-------------------------------------------------------------------
 const int PIN_UART1_RX = 1;
 const int PIN_UART1_TX = 2;
