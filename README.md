@@ -28,6 +28,8 @@ An example of how to use freeRTOS with 3 tasks.
 https://www.freertos.org/  
 ## M5NanoC6 millis ##
 An example of simple cooperative multitasking with 3 tasks using the millis() function.  
+## M5NanoC6 AnimalRFID ##
+Animal 134.2kHz RFID reader WL-134. 
 ## U001-D - ENV IV ##
 An environmental (ENV) sensor system that integrates the SHT40 and BMP280 sensors, designed for measuring temperature, humidity, and atmospheric pressure.  
 https://docs.m5stack.com/en/unit/ENV%E2%85%A3%20Unit  
