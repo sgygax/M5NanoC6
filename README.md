@@ -18,7 +18,9 @@ The built-in blue LED and pulse-width modulation (PWM).
 ## M5NanoC6 RGB ##
 The built-in Neopixel RGB-LED.  
 ## M5NanoC6 Neopixel30 ##
-An external Neopixel-stripe with 30 RGB-LEDs.  
+An external Neopixel-stripe with 30 RGB-LEDs (GRB order of primary color).  
+## M5NanoC6 Neopixel50 ##
+An external Neopixel-stripe with 50 RGB-LEDs (RGB order of primary color).  
 ## M5NanoC6 Webserver ##
 A simple web server in station mode.  
 ## M5NanoC6 WebserverAP ##
