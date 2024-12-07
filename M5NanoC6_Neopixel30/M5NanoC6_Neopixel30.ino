@@ -1,4 +1,4 @@
-// An external Neopixel-stripe with 30 RGB-LEDs.
+// An external Neopixel-stripe with 30 RGB-LEDs (GRB order of primary color).
 // - https://docs.m5stack.com/en/core/M5NanoC6
 
 // GROVE PORT (UNIVERSAL):
@@ -15,7 +15,7 @@ const int PIN_DATA_STRIPE = 1; // 1, 2
 
 const int NUM_LEDS = 30;
 
-Adafruit_NeoPixel stripe(NUM_LEDS, PIN_DATA_STRIPE, NEO_GRB + NEO_KHZ800);
+Adafruit_NeoPixel stripe(NUM_LEDS, PIN_DATA_STRIPE, NEO_GRB + NEO_KHZ800); // GRB order of primary color
 
 //-------------------------------------------------------------------
 void setup()
