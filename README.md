@@ -80,7 +80,7 @@ https://docs.m5stack.com/en/unit/OP.90
 ## U088 - TVOC/eCO2 (todo) ##
 A digital multi-pixel gas sensor using the SGP30 chipset.  
 https://docs.m5stack.com/en/unit/tvoc  
-## U095 - IMU (todo) ##
+## U095 - IMU ##
 A 6-axis attitude sensor system using the MPU6886 chipset with 3-axis gravity accelerometer and 3-axis gyroscope.  
 https://docs.m5stack.com/en/unit/imu  
 ## U119 - OLED ##
