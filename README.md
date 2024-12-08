@@ -65,7 +65,7 @@ https://docs.m5stack.com/en/unit/button
 ## U028 - NCIR ##
 A  infrared surface temperature measuring system using the MLX90614 chipset.  
 https://docs.m5stack.com/en/unit/ncir  
-## U029 - HEART (todo) ##
+## U029 - HEART ##
 A pulse oximetry and heart-rate sensor system using the MAX30100 chipset.  
 https://docs.m5stack.com/en/unit/heart  
 ## U031-B - RFID2 ##
