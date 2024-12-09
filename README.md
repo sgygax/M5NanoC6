@@ -122,7 +122,7 @@ https://docs.m5stack.com/en/unit/IMU%20Pro%20Mini%20Unit
 ## U172 - ToF4M ##
 A distance measuring system using the VL53L1x chipset (4..4000mm).  
 https://docs.m5stack.com/en/unit/Unit-ToF4M  
-## U173 - QR-CODE (todo) ##
+## U173 - QR-CODE ##
 An integrated one-dimensional/two-dimensional code scanning unit.  
 https://docs.m5stack.com/en/unit/Unit-QRCode  
 ## U177 - MINI SCALES 5KG ##
