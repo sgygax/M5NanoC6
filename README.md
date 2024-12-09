@@ -77,7 +77,7 @@ https://docs.m5stack.com/en/unit/gps
 ## U057 - OP 90° ##
 An infrared photoelectric switch sensor (90°) using the ITR9606 chipset.  
 https://docs.m5stack.com/en/unit/OP.90  
-## U088 - TVOC/eCO2 (todo) ##
+## U088 - TVOC/eCO2 ##
 A digital multi-pixel gas sensor using the SGP30 chipset. It detects the concentration of TVOCs (Total Volatile Organic Compounds) and eCO2 (equivalent carbon dioxide).  
 https://docs.m5stack.com/en/unit/tvoc  
 ## U095 - IMU ##
