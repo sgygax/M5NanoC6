@@ -80,7 +80,7 @@ https://docs.m5stack.com/en/unit/OP.90
 ## U088 - TVOC/eCO2 ##
 A digital multi-pixel gas sensor using the SGP30 chipset. It detects the concentration of TVOCs (Total Volatile Organic Compounds) and eCO2 (equivalent carbon dioxide).  
 https://docs.m5stack.com/en/unit/tvoc  
-## U089 - Mini PDM Microphone ##
+## U089 - Mini PDM Microphone (todo) ##
 A digital MEMS silicon-based microphone based on PDM (Pulse Density Modulation) signal.  
 https://docs.m5stack.com/en/unit/pdm  
 ## U095 - IMU ##
