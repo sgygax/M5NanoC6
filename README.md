@@ -44,7 +44,7 @@ https://docs.m5stack.com/en/unit/PIR
 ## U005 - ANGLE ##
 A rotary potentiometer.  
 https://docs.m5stack.com/en/unit/angle  
-## U008 - FINGER (todo) ##
+## U008 - FINGER ##
 A fingerprint sensor based on the FPC1020A chipset.  
 https://docs.m5stack.com/en/unit/finger  
 ## U009 - COLOR ##
