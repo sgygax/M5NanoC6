@@ -1,5 +1,6 @@
 // LCD-Display (1.14", 240x135, RGB)
 // - https://docs.m5stack.com/en/unit/lcd
+// - https://github.com/m5stack/M5GFX
 
 // GROVE PORT (UNIVERSAL):
 // 1 GPIO1, TWI(SCL), UART(RX)
@@ -140,3 +141,4 @@ void loop(void)
   }
   display.clear();
 }
+
