@@ -53,7 +53,6 @@ void loop(void)
 {
   // Webserver bedienen
   webserver.handleClient();
-  delay(10);
 }
 
 //-------------------------------------------------------------------
@@ -87,3 +86,4 @@ void handle_page_index() {
   // HTML an Client senden
   webserver.send(200, "text/html", html_template);
 }
+
