@@ -53,7 +53,7 @@ void setup(void)
 
   //---
   // subscribe topic
-  mqttclient.subscribe("AAAA/BBBB/TEXT");
+  mqttclient.subscribe("AAAA/BBBB/TEXT");  /* to change */
 
   // callback funktion
   mqttclient.onMessage(messageReceived);
@@ -71,4 +71,5 @@ void messageReceived(String &topic, String &payload)
   Serial.println(String("Topic:   ") + topic);
   Serial.println(String("Payload: ") + payload);
 }
+
 
