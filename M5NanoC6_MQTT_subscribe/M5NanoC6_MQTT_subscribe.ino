@@ -9,14 +9,8 @@
 
 //-------------------------------------------------------------------
 // WiFi:
-//#define WIFI_SSID  "........"  /* to change */
-//#define WIFI_KEY   "........"  /* to change */
-
-//#define WIFI_SSID  "GEEAP_GAST"
-//#define WIFI_KEY   "g3yz-yrqz"
-
-#define WIFI_SSID  "NuovoAP"
-#define WIFI_KEY   "e4Yb-6gH3-1BbZ-94ey"
+#define WIFI_SSID  "........"  /* to change */
+#define WIFI_KEY   "........"  /* to change */
 
 //-------------------------------------------------------------------
 #define MQTT_CLIENT_ID  "BBW_ESP32_XYZ"  /* to change */
@@ -77,3 +71,4 @@ void messageReceived(String &topic, String &payload)
   Serial.println(String("Topic:   ") + topic);
   Serial.println(String("Payload: ") + payload);
 }
+
