@@ -65,10 +65,11 @@ void loop(void)
   if ((millis() - zeitStempel) > 1000) {
     zeitStempel = millis();
 
-    String topic = "/AAAA/BBBB/TEXT";  /* to change */
-    String payload = "Hello World";    /* to change */
+    String topic = "AAAA/BBBB/TEXT";  /* to change */
+    String payload = "Hello World";   /* to change */
     mqttclient.publish(topic, payload);
 
     Serial.println("Message published :-)");
   }
 }
+
